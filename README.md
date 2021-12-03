@@ -1,0 +1,1 @@
+Programs which solves an Eight Puzzle using the A* search algorithm.
